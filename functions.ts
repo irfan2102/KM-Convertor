@@ -2,6 +2,10 @@ import { dictionary } from './json';
 import { corpus } from './corpus';
 import { dictionarywords } from './dictionaryWords';
 
+export function noOfCorpes() {
+  console.log(`Number of corpus available in the json file : ${Object.keys(corpus).length}`)
+}
+
 export function getCorpusDetails(fileName: any) {
   //get each word from corpus
   let words = [];

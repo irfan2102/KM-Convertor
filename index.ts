@@ -3,12 +3,13 @@ import {
   getMissingWordsInDict,
   getCorpusDetails,
   generateSentencesinKMfromCorpus,
+  noOfCorpes,
 } from './functions';
 
 let fileName = 'ktv_03_03_22';
 
 /*1. TO DISPLAY ALL UNIQUE WORDS FROM A CORPUS*/
-console.log(getCorpusDetails(fileName));
+// console.log(getCorpusDetails(fileName));
 
 /*2. CONVERT CORPUS TO KM GRAMMAR*/
 // console.log(convertCorpus(fileName));
@@ -18,3 +19,6 @@ console.log(getCorpusDetails(fileName));
 
 /*4. Generate sentences from corpus--->precise the length you want the sentence to be*/
 // console.log(generateSentencesinKMfromCorpus(fileName,16));
+
+/*5. Number of corpuses available*/
+console.log(noOfCorpes())

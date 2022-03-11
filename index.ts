@@ -5,10 +5,10 @@ import {
   generateSentencesinKMfromCorpus,
 } from './functions';
 
-let fileName = 'ktv_02_03_22';
+let fileName = 'ktv_03_03_22';
 
 /*1. TO DISPLAY ALL UNIQUE WORDS FROM A CORPUS*/
-// console.log(getCorpusDetails(fileName));
+console.log(getCorpusDetails(fileName));
 
 /*2. CONVERT CORPUS TO KM GRAMMAR*/
 // console.log(convertCorpus(fileName));

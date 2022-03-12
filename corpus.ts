@@ -800,7 +800,7 @@ export const corpus = {
     'ou ti konner ti innover avek roche pou alle la chasse ek gagne manger ki ti p marse marse longue distance ek zordi p roule dan loto',
     'apre in invente globe   in gagne la lumiere in kit la terre in alle dan lespace ziska in al lor mars ziska bientot pou marche lor mars',
     ' realiter in vine virtuel nou vive ici nou avatar dan 1 lot monde nou imagination li sans limit alor ki ou p atan pou ou innover ',
-    'innover moris to lide compter dan rezis international ban inondation dans australie dan la cote orientale in ob;ige ban habitant alle cachiette ',
+    'innover moris to lide compter dan rezis international ban inondation dans australie dan la cote orientale in oblige ban habitant alle cachiette ',
     'lor ban toit ek lor ban pond sa ban inondition fine pousse ban authoriter evacuer ban dimoune environ 200 mil dimoune concerner ',
     'par ban lodre evacuation anou get nouvel letemps asoir pou nuager ek demain gramtin pou ena lapluie lor la moitier parti lile ',
     'lor lest sud ek surtou lor plateau centrale accompagner ban loraz ban la pluie kapav occasione ban accumulation delo dan certain region pou ena ',

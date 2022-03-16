@@ -3,7 +3,11 @@ import { corpus } from './corpus';
 import { dictionarywords } from './dictionaryWords';
 
 export function noOfCorpes() {
-  console.log(`Number of corpus available in the json file : ${Object.keys(corpus).length}`)
+  console.log(
+    `Number of corpus available in the json file : ${
+      Object.keys(corpus).length
+    }`
+  );
 }
 
 export function getCorpusDetails(fileName: any) {
@@ -11,7 +15,7 @@ export function getCorpusDetails(fileName: any) {
   let words = [];
   corpus[fileName].forEach((line: any) => {
     let y = line.split(' ');
-    y.forEach((i) => {
+    y.forEach((i:any) => {
       i !== '' && words.push(i);
     });
   });
@@ -60,7 +64,9 @@ export function getMissingWordsInDict(fileName: any) {
   let uniqueWords: any = [...new Set(words)];
   console.log('Number of unique words in the corpus : ' + uniqueWords.length);
   //get diff in two arrays :- (A ∩ B)'
-  let missings = uniqueWords.filter((d) => !(<any>dictionarywords).includes(d));
+  let missings = uniqueWords.filter(
+    (d: any) => !(<any>dictionarywords).includes(d)
+  );
   console.log(
     'Number of words not present in dict from this corpus: ' + missings.length
   );

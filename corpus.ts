@@ -744,7 +744,7 @@ export const corpus = {
     'kontak avek ban lezor morisien ki touzour en ukraine ban demars p fer pou ki zot kapav alle dan ban lezot frontier kendy mandra christen lebrace ',
     'bonzour moris li enfin soulager kevin allagapen 1 morisien ki ti p vive en ukraine recemment fine trouve refuge en pologne ',
     'grace a ban lezot morisien ki p aide li video adresser a la mbc li koz sa bonher ki li loin ek la guerre bonzour lile moris',
-    ' mo p fer sa viseo la pou fer zot tou konner ki zordi noune ressi rentre en pologne ek kuma mo la famille tatiana joey et moi nou en',
+    ' mo p fer sa video la pou fer zot tou konner ki zordi noune ressi rentre en pologne ek kuma mo la famille tatiana joey et moi nou en',
     "bonne santer nou en bonne santer parski ceter 1 coudemain collectif toute a chaqu'un lambassadeur moris ki trouve en russie lambassadeur",
     'moris ki trouve en allemagne e la kot mo eter nou kot 1 de nou ban compatriot morisien ki trouve en pologne toute lile moris in aide nou ',
     'in fer la priere pou nou zordi nou sain et sauf nou ti dan 1 situation vraiement catastrophique vraiement dificile ki ti presque impossible pou sorti laba mais ',
@@ -804,7 +804,7 @@ export const corpus = {
     'lor ban toit ek lor ban pond sa ban inondition fine pousse ban authoriter evacuer ban dimoune environ 200 mil dimoune concerner ',
     'par ban lodre evacuation anou get nouvel letemps asoir pou nuager ek demain gramtin pou ena lapluie lor la moitier parti lile ',
     'lor lest sud ek surtou lor plateau centrale accompagner ban loraz ban la pluie kapav occasione ban accumulation delo dan certain region pou ena ',
-    '1 akalmi demain apre-midi ban la pluie pou continuer dan le sud lesst ek plateau centrale demain soleil pou lever 6hr 8 ek li pou alle .',
+    '1 akalmi demain apre-midi ban la pluie pou continuer dan le sud lest ek plateau centrale demain soleil pou lever 6hr 8 ek li pou alle',
     'dormi 18hr 34 madame missier nou fine arrive la fin sa zournal en kreol la merci ou fine suive li et a tres bientot ',
   ],
   ktv_06_03_22: [

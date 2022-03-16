@@ -915,4 +915,471 @@ export const corpus = {
     'demain gramatin pou ena ban nuage ki pou kapav occasionale ban lapli lor ban hauteur ziska la zourner soleil demain pou lever 6hr 9 ek li pou alle dormi ',
     '18hr 32 madame missier nou fine arrive la fin de sa zournal en kreol la merci ou fine suive li a tres bientot ',
   ],
+  //tatiana
+  ktv_18_02_2022:['Madam, missier bonsoir.',
+  'Ban tite sa zournal la, Station meteo vacoas pu met enn warning cyclone class deux dans moris a partir quatre-heur demain gramatin.',
+  'Ces a cause changement trazectoire ec intensification cyclone tropical Emnati ki p contigne approcher avec moris.',
+  'A partir demain 19 fevrier ban dimoune ki pas completement vacciner.',
+  'Donc ki pan fin fr booster dose pas pu ggn access dans plisir lendroit mais ban centres vaccination pu rest operational pu ban imounes ki bizin fr zot vaccin.',
+  'Depiter Britanic Jeremy corbyn p soutenir autour ban Chagosien lor zot larchipelle, li p demande government Royaume uni respecter ban jugement international en faver moris.',
+  'Et dehors sis pays africain fin choizir par lOMS pu fr zot prope production vaccin aparamesazik conte covid..',
+  'Pu ena enn warning cyclone classe de dans moris a partir demain, Emnati in intensifier pu vin enn cyclone tropical.',
+  "Et li p contigne al ver l’ouest sid-ouest." ,
+  'quatre heur zordi tanto li ti a plis set cen kilomet dans nor este moris.',
+  'Aussi p maintenir warning class 1 dans Rodrigue plus detail avec Nitoush Agia.',
+  'Fi ena enn gros evolition o nivo trazectoir Emnati deoi derneir billetin kin emet par station meteo a zordi diz her dice.',
+  'Emnati p evoluer asterla com enn cyclone tropical a set-cen-cinquante kilomet au nor este moris.',
+  'Ban bande nuazer actif associer avec li pu traverse moris demain gramatin.',
+  'A quatre-heur nous trouver ki so movement sa ban dernier her in confirme sa trazectoir de louest- sud ouste.',
+  'Biensure Emnati p contigne approache nous region.',
+  ' Avec evolution de Emnati ki nous p attend so trazectoir ki pou inflechi plis ver le sud-ouest au cour de la nuit.',
+  'Donc la li pu represente davantage enn menace pu moris. Demain nou p envizaze pu passe en classe 2 a 4h du matin demain.',
+  'Sa ban nuage ki organiser autour Emnati li pu renforchi.', 
+  ' donc cest a  partir de demain nous p attan ki au cour des le matin meme.',
+  "Lerla entier l'ile pu ggn l'influence de sa ban nuages la.",
+  'Et nous p attan ki la plie la biensur li pu vin plus frequant',
+  'li pu meme ban gros lapli par moment avec loraze et divent', 
+  'definitivement meme ce soir nous p attan ban raffales ziska de lorde de quatre-vingt kilomet par her', 
+  ' et sa ban rafales la li pu augmenter demain li kav arrive meme cent kilomet par her dans la journer. ',
+  'En ce ki concern rodrigue p maintenir alert enn apres chanzement dans trazectoire cyclone la.',
+  'Rodrigue li toujour p ggn enn de ban nuaze assossier r Emanti ki p traverser.',
+  "Ce soir nou p attan ki n de ban nuaze, ban bandes plus actid associer r Emnati pu traverse l'ile rodrigue.",
+  'Et dans sa ban nuaze la souvent des fois ena ban gros divent.',
+  'Donc cest pu quoi nous finn maintenier ki a Rodrigue pu ce soir au moin ziska tot demain gramatin nous kapav ggn ban rafales ki pu arrive de quatre-vingt dice a cent kilomet par heure.',
+  'Donc avec Emnati ki fin p evouler kot nous la mer dans tout la region li demonter,',
+  'li bien movais avec ban gros la houle.',
+  'Donc a Moris et a Rodrigue la mer li pu bien bien movais.',
+  "Enn letemp la pli en pespective pu demain, dans Moris sa samedi la pu ena la pli imper partout lor l'ile.",
+  'Et justement pu suive evolution letemp national crisis authority fin zuwen zordi  dans citadelle mall dans port-louis.','  Enn reunion presider par vice premier minis docter Anwar Husnoo.',
+  'National emergency operation circle man in aussi activer a zordi gramatin Orvashi Bungun. ',
+  'Des ki fin met alerte cyclonic gramatin vers diz her dice national emergency command fin activer nivo enn.',
+  "Nous ban parti prenante zot ti sur pied d'alerte.",
+  'Nou pu attan ggn enn warning class 2 pu nous active nous donc numero 2.',
+  'Aussitot ki nous ggn neoclemondo nous pu ena, nous pu contenu encore ban staff du centre.',
+  'Ena ban prope ban first responders ki al prepositioner dans ban places.',
+  'Dans ban flood points ena dans le nor, sud, este, oueste et dans le centre.',
+  'L nous p aussi guet ban zones ci zot ena ban responders lor terrin kuma petite-racoute et valley-pitot.',
+  'Nou suive lerla si nou bizin met enn warning state ouswa enn evaluation stage.',
+  'Nou aussi concentrer nou ban resources la dans ban places ki la plus part du temp ggn ban problems.',
+  'Station meteorologik de vacoas p percevoir enn deterioration letemps a partir ce soir. Lalerte 2 pu emet 4hr gramatin.',
+  'Dans zour ki p vini li pu prend 1 trazectoir sud-oueste',
+  'la lin fini commence incureve et la li p deplace dans enn direction de loueste sud oueste a environ 15 kilomet par her',
+  'cyclone la pu approache Moris et le risque ki letemp gater au fait in augmenter.',
+  'Effectivement aujourdhui nous in ggn enn beau temp.',
+  'Se soir deja ban nuages associer avec Emnati pu vin lor Moris',
+  'nous pu commence ggn la plie et demain pu ena  au fait enn grand deterioration letemp.',
+  'Nou kapav ggn la plie nous kapav ggn lorage nous kapav ggn la brize la pu augmenter.',
+  'Li pu vin facilement quatre-vingt quatre vingt dice kilomet par heure meme cent kilomet par her au cour de la journee.',
+  'Vice Premier minist Docter Anwar Husnoo fin dir ki ban lautorite ec tout ban parti prenante pu suive levolution cyclone tropical Emnati.',
+  'Tout depend levolution cyclone la sipa zot pu met classe troi ou non sa pu depend levolution cyclone la',
+  'donc la so trazectoir eccetera voila',
+  'alors la nous in zuen tout ban skateholders nous gagne NEOP naturellement et ban officeirs NEOP la,ena la police, ena national coast-guard.',
+  'Alors nous guet la situation dans different centres. Ena airport authority nous discuter ki bizin fer, ki pas bizin fer, ki ban precautions ki bizin prend prend.',
+  'Saint Brandon ena quatorze dimounes labas.',
+  'Alors nous in fini make sure ki zot dans enn safe place, sa cest tres tres important et parce ke cyclone la kapav vin tres tres close avec Saint Brandon petraite a lenviron de quarante kilomet Saint Brandon.',
+  'Alors, li pu tres fort labas  alors nous fini koz avec zot, nous en communication avec ban dimounes de Saint Brandon, Kumsa zot kapav prend zot ban mesures de precaution.',
+  'Ban citoiyen zot kapav envoy zot ban dolences lor portaille via www.cus.mu ou lor application mobile cus a noter ki tout ban dolence pu rediriger ver national emergency operations command.',
+  'Dans Rodrigue zordi toutjour ena class enn, meme si letemps pas ti trop bon, ban rodriguer fin contigne zot ban activite contidienne.',
+  "Mais cest dans l'apres midi ki letemp fin deteriorer.",
+  'Ban laplie ki vin avec ban cyclones zot represente en auben pu pan agriculters mais le constat lis sans equvaque dans port sude-este.',
+  'Cest ban la pluie ki ti p attan par ban agriculters.',
+  "La mone vin gueter la, mone seme imper bred ,la mo ne vin gueter tension delo in rentre ladans, apres mo ena deux trois pied giromon apres mo ena deux trois fausser margoze mone vin gueter tension delo in abat zot imper mais delo la li panne trop gagne ici imper kuma dan le zot lendroit.",
+  'Depi lalerte enn ban rodriguais in fin prend ban precautions duzage zot in fini rentre zot ban bato, zot in fini fer zot ban provision pu ban consigne sekiriter zot respecter a la letttre Emnati ki fer li senti suretout lor nous ban la cote.',
+  'La presence Emnati dans nous ban barages li panne occasione grande interventions bans services durgence.',
+  'Pan enregistrer auken lintervention sa ban dernier vingt-quatre her la. Pan deplore aussi auken obstructions lor la route.',
+  'Suite a premier bulletin meteo kin emete hier a quatre her dice,',
+  'suite a cyclone classe enn reok in activer ec prendant la nuite nous panne gagne beaucoup interventions ni auken requette  de la population par rapport a levolution du cyclone.',
+  'Ban diven enmener par emnati seulment in fr deux trois heureux dans lagon brook zot in brave le movais temp pu adorne zot a zot passion kite surf.',
+  ' Si ban sensation forte ti au rendez-vous bizin quand meme faire resorti ki ban sortie en mer zot interdi en temp cyclonique.',
+  'Egalement dans lactualiter ban centres vaccinations reste operationel pu tout ban dimounes ki bizin fer zot vacciner mais a partir demain samedi diz nef fevrier ban dimounes ki pas complement vacciner donc ki  panne fin fer booseter dose pas pu gagne acceser dans plisir lendroit.',
+  ' Enn declaration Dr Kailesh Jagupal, k i au micro sara arnaut.',
+  'Ban dimounes ki panne fin vacciner et surtout quand nou kne ena n definition claire ki veux dire fully vaccinated with booster dose.',
+  'Sa ban dimoune ki panne encore faire zot booster doze zot pas pu ggn acceser dans ban places la,',
+  "li pu enn offence si ou pas fin fr ou vaccin avec ou booster doze ou fin rentre dans enn place la",
+  'quand ou ti bizin in fer li ena tout letemp pu zot fr zot booster,',
+  'deja si le regulation est aviger a partir de demain li toutjour ena letemps al enver nou ban centres de vaccination al fr ou booster dose kumsa ni ou p met ou meme ou p al commet  n offence, ni deuxieme ou met ou prochain et ou meme prope la santer en danzer.',
+  'Ban centres de vaccinations continier offer ban differents vaccins booster ou meme premier ou deuxieme dose.',
+  'les activite continier cest lappel encore enn fois pu encouraze dimoune pas a cause bizin fer booster doze pu kapav gagne laccer a sa ban restricted areas la mais plis pu la protection de zot la santer et surtout de zot prochain.',
+  'Concernatnt situation sanitaires dans Moris lor covid fin enregistrer trois cent trentre trois nouvo cas positif dans moris zordi cinq patients fin admet lopital ENT et trois fin gagne decharge  ena soisante trois admissions dans  ban lopital regional quarante quatre depi sa ban lopital la lor campagen vaccination nef cent quatre vingt sis mille trois cent soisante seize in ggn premier doze vaccin,',
+  '955 195 kinze in gagne zot booster doze ec 442 386 in gagne zot booster doze ec pendan dernier semaine fin ena kinze decer a cause covid.', 
+  'Et dans rodrigue ce matin fin enregistrer deux cent cinquante ec enn nouvo cas covid dans vingt-quatre heure ena trois mille cinque cent soisante kinze cas actif ec trois mille set cent vingt et enn dimoune considerer kuma gueri.',
+  'fin enregistrer sis decer patients positifs mais la cause zot decer pas lier avec covid.',
+  'Moris pu ggn le soutient important dans lopinion britanik dans dossier chagos.',
+  ' eremy Corbyn fin plaid en faver autout ban chagossiens dans zot larchipel et li p demande gouvernment Royaume uni respecter ban jugement international en faver moris et engage li tout de suite avec gouvernment morisien ki ena souverenter lor larchipel.',
+  ' Et dans n declaration a la MBC zordi deputer la chambre des commune dire quadn drapo Moris tin p floter lor Peros Bhanos lundi dernier cetait n moment historik compte rendu Abdel Bolakee.',
+  'Le lever du drapo Mauritien dans le ciel de Peros Bhanos lundi quatorze fevriyer de mille vingt de fin commenter par Jeremy Corbyn.',
+  " Lor so paz facebook ki ena enn million followers lhomme politik britanik p qualifier sa levenment las de capital ec de historik dans lhistoire de ban chagosien ec tout ban kin fin milite sans relache pu zot droit de retourn dans l'archipelkot zot fin bannie ena plus ki cinquante ans ec solisieter sa vendredi tanto pu enn reaction lor sa expedition  morisienne la dans ban delo des chagos.",
+  ' Le depiter Islington North MP sous la souverenter de Moris lor sa ban terriroires la.',
+   'Jeremy Corbyn fin presizer aussi ki lla deportation de ban chagosien depi ban lezot lil natal li enn de ban episodes de plis honteu de ban britanik modern.',
+  "Ban gouvernment britanik ki fin succeder panne fin reussi repart sa tort ki li p considerer kuma enn crime conte l'humaniter malgre ban jugement internantional de Moris.",
+   ' Ce membre de la chambres des commune trouver ki Londres pas p tenir conte the rule of the law.',
+   ' Finalement so position li comme suite union Britanik bizin engage li avec Moris ek negotier n reglement de sa ban questions la.',
+   'Li p appel le roiyaume unie pu retablir immediatement le droit de retours de ban Chagosiens dans zot patrie et pu travail avec Moris lor enn plan dessay de zot reinstallation lor larchipelle des Chagos.',
+   'So poste sur facebook p contigne attir ban centaine de commentaires enfaver de Moris.',
+   'Parmit lekel plusieur p interpelle Londre lor le respect du droit international.',
+   'Yannik catrine fin zuwen lapress zordi apres ke li fin donne zot so lettre demission depi tout ban instances mmm.',
+   ' ti responsable campagne 3 candidat MMM dans la circoncription numero seize pendant dernier election et le membre sa partie la depi plis ki vingt ans. Li dir li nepli reconait valer so parti. Adrien Valer.',
+   ' Membre actif movement Militan morisien depi plis ki vingt ans.',
+   ' Yannik Catrine fin soument so lettre demission toute ban instances MMM a chef parti hier.',
+   ' A zordi lor n conference de presse sa ancien vice president fin expliker ban raisons so demission pamit lekel figurer ki enn manque consideration en ver ban jeune au sein buro politik MMM. ',
+   'Malheureusement, le travail sur le terin de certain dirigen li tres tres tres minime. ',
+   'Kot fin ena plusier militans ki fin reprocher ki nous pas assez lor terrin et ki nous bliyer nous dimoune apres les elecctions.',
+   'Depuis la demission de Nira Seebraran, Jenny Adebino ki fin recemment demissioner li aussi p utilise le terme aster-vender dans le sense kot p aster dimoune.',
+   ' Sa veux dire nous quand nous prend descision pu kitte le parti sa veux dire ki lot dimoune p aster nou.',
+   ' Nou en de mille vingt de eski quand nou p dir dimoune p aster nou ou p traite nou de esclaves sa veux dire ki nous lor le marcher?',
+   'Sa veu dire ki en de mille vingt de dimoune kapav permet aster dimoune eski ces ca kaliter politic la ki nous p fer en de mille bingt deux eski ces sa kaliter terme la ki nous p utiliser pu attir la jeunesse pu fr de la politique.',
+   ' Quand nous p koz aster-vender . Be dernermement nous kne ki Nando Boda ti kitte le gouvernment in rejoin lopposition.',
+   ' Eski Nando Boda lopposition fin aster li? Parceki tout seki p demisssioner p diredimoune p aster.',
+   'Enn eventuel alliance entre MMM ec parti travailliste fin aussi evoker kuma n raison so depart.',
+   ' pas plus tard ki apres les elections de 2014 , Le MMM Paul Beranger ti dir ki si nous lalliance parti travailliste MMM fin perdi les election parceki le peuple ti fer n vote sanksion konte Navin Ramgoolam.',
+   "Et la dans ban lartik, sa plusieur foi in remonte mais aujourdhui nous p galouper pu pareille real fr n l'alliance avec parti travailliste et remet Navin Ramgoolam kuma premier Minist.",
+   'Nando Boda, pas p decoler et zot in choisit pu prend enn plan B.',
+   ' Lalliance cusidiere ki parti p rod fer.',
+   ' Cest a dir reall get Navin Ramgooolam et reall essay negotier n lalliance avec le parit travailliste et sa laisse mo dire zot li franc tou ban camarad travailliste ban Militant aussi na pas pu daccord fer enn dezieme trahizon kuma ti fer en deux mil quatorze.',
+   'Yannik Catrine convincu a ban lezot membres sa parti la pu demissioner zot aussi.',
+   'Ban nouvelles dehor, sis pay africain fin choisir pu ki zot ena zot prope production vaccin ARN messager cest lOMS ki fin annonce sa zordi ces ban benefisier mondial fabrication vaccin.',
+   "C'est l'afrique du sud, lEgype, Kenya, Nigeria, Senagal et Tunisi soisante pourcen ban vaccins ki pu produire par sa ban pays la pu destiner a lafrique.",
+   'lOMS pu travail avec sa ban pays la pu elabore enn roadmapn pu formation avec soutien lunion european pu investi quantante million euro pu transfer technologic.',
+   'Et apart vaccin anti covid pu kapav aussi fr ban vaccins ec traitement pi lezot maladie.',
+   'Laisse nou geut asterla ban nouvel letemp dnas Moris.',
+   'Ena enn warning cyclone classe enn dans moris.',
+   ' Emnati fin contignier intensifier et li asterla enn cyclone tropical.',
+   'li fin confirm so trazectoir ver loueste sud oueste dans la journee mais so vitesse in diminier ban rafalles pres avec so centre cent quatre-vingt kilomet.',
+   'et a quatre heur zordi tanto cyclone tropical Emnati ti environ set cent cinkante kilomet dans le nord est moris.',
+   ' Et li p deplacer a loueste sud-ouest a quinze kilomet par her dapres ban previsions emanati pu vin fr enn trazectoir sud ouest',
+   ' li pu contigne intensifier quand li pu pass pres avec Saint Brandon lor sa nouveau trazectoire la cyclone tropical Emnati pu contigne approacher avec nous region et li pu respresent enn menace potentiel pu moris.',
+   ' publique bizin prend  ban precautions preliminaires',
+   ' zordi tanto letemps pu convert avec ban lapli intermiatnte dans leste, le sud ec le plato central, ban nuaze actif associer a cyclone tropical pu commence traverse lil bonheure demain gramatin avec la pli ki pu moderer a fort orage, divent pu souffler depi sude este a 40 kilomet par heur avec ban rafales quatre-vingt kilomet par her ki pu renforci encore demain. ',
+   'La mer pu movais avec ban vagues cinq met hauter et pu vin pli gros demain la zourner.',
+   'Ban sorties en mer deconceiller et avec changement trazectoire ec intensification Emnati pu ena enn warning cyclone class de a parti quatre heure du matin demain.',
+   'Prochain bulletin cyclonik pu tirer a vingt de her dice zordi tanto .',
+  'Et voila nous zournal fini ici,',
+  "merci pu zot l'attention .",
+  'Bonne soiree lor banne chaines MBC.'],
+  //tatiana
+  ktv_19_02_2022:[
+    'Madam, Misier bonsoir, bienvenu - Enn avertisment cyclone class trois en viger lor moris.',
+    'Cyclone tropical Emnati pu passe a so point plis raprocher demain gramatin.' ,
+    'Moris classer- diz-neveme lor lindice democratik 2021.',
+    'Bobby Hurryram soulignier ki nou pay classifier democracy complet pareille Kuma lAmerik.',
+    'Lor dossier chagos Ii dir ki nou Souverenneter territorial pena pri.',
+    'Mesure obligatoire pu ena 1 schema vaccinale complet fin rentre en viger a partir azordi accer a certain lendroit piblik limiter a ban dimounes ki pane fer tou vaccine anti - Covid.',' Ec dehor tempete Egnis contignier fer ravaze dans le nor lEurope.',
+    'Billan au Moin treize Morts.',
+    'Enn lavertissement cyclone Classe trois en viger for Moris sizieme billetin cyclone pu moris fin tirer ver quatre heure tanto azordi.',
+    'Cyclone tropical Emnati ti centrer a environ trois -cent-quatre- vingt-dice kilomete heure preski dans le nord parti Cap Malheureux Lor sa trazectoir la li p raproche avec nous lil li pu passe a so point pli rap rocher demain gramatin.',
+    'Enn Iavertisement cyclone class trois en viger Ior Moris p conceil piblik prend tou precautions necessaire.',
+    'Et enn lekip redaction finn visit plusieur region a zordi tanto pu fer enn constat situation le temp cyclonik dans pay.','Nou guet reportaze Nazia Kollachun.',
+    'Le de fevriyer dernier Batsirai ti a so point plis proche de Moris.',
+    'Pay ti passe en alert quatre, dice-set zours apres ces Emnati ki p influence letemp.',
+    'Service Meteologic Vacoas ti emet alert enn a diz her dice sa venderdi la ec gramatin alert de ti rentre en viger a quatre her dice ec alert trois a seize her dice.',
+    'Zordi matin ban forte rafales ti en registrer dans certain parties lil ec la pli fin bien tomber par intermittence.',
+    'Dans la mi zourner la pluviometrie ti affiche enn moyenne de  cinquante milimet a traver lil.',
+    'A zardin Balefour a Beau Bassin Ia pli ti abondante.',
+    'Dans enn comininike emit ver midi trente meteo de vacoas ti announcer ki pay ti pu passe en alert trois a seize heure dice.',
+    'Ec sa pu permet la population prepare zot ec fer ban acha en avance.',
+    'Rodrigue pas ti concerner par Emnati alert cyclonic ti fini enlever.',
+    'A seize her cyclone ti centre r a environ trois-cent-quatre-vingt-dice kilo met au nord de Cap Malheureux.',
+    'Li pu passe a so point plis raprocher a environ deux-cent- soisante- kinze au nord- nord Ouest Grand -Baie demain gramatin.',
+    'Ban gros lapli fin prevoire dans la soirer ec demain matin.',
+    'Dans lapres midi le temp ti deteriorer au litoral ban la plaze ti preske dezert. Zis kelke dimoune ki ti present a Flic- en- flac.',
+    'Toujour pu enticip le Cyclone nous fer kelke acha avant.',
+    'Aster Mo dire pour quoi pas enn roti avant ki tou fermer.',
+    'Nous fer bien attention ek pas vraiment fer ban acts vraiment danqeureuse.',
+    'P gagner ban elien la enn enn enn mais  pas ti Kuma tou les zour.',
+    'Surtout quand ena cyclone dimoune kntn quand ena cyclone quand ena laplie enn ti farata so so zot p vini.',
+    'Ban dimoune ki vin vacances ou ban dimoune ki rest Moris pa rentre dans la mer la, nou truver ena ban dimoune p nazer, moi mo trouve sa imper dangereu mo conceil ban dimoune pas al dans la mer dans ban letemp kumsa.',
+    'La mone vin rod pu nettoye ban voitures ban dimoune.',
+    'Malheureusement cyclone pas p kapav travail.',
+    'Voila, Mo pass enn messaze pu ban dimounes meme pu pas rentrer par ceki cyclone Ii aporte enn danzer parceki enn import.',
+    'Ki moment, nimport kiler, nous pas kner nimport ki moment enn Malheur kapav arrive enn kout.',
+    'Mais sois prudent tout le Monde.',
+    'Certain personne ti p aventurer dans la mer malgre ban concignes de meteo ki fin annonces ban vagues de Cinq met.',
+    'Li deconceiller au public pu aventurer dans la mer.',
+    'Et asterLa nou ecoute previsionist Avinash Dooktlee de station meteo Vacoas pu gagne plus details for lévolution cyclone Emirati.',
+    'La meteo fin annonce un avertIssement de Classe trois a partir de seize heure cette apres midi ,',
+    'ce ki nous in remarker ces que la pression barrometric contigne baisser sur Moris et aussi ena enn renforcement Ior ban rafales ki nous p enregister,',
+    'donc sa cest ban signes que Emirati p contigne raprocher avec Moris. ',
+    'Concernant le temps, ban bandes actif assosie ar Emnati pu contignier traverse lil, nou pu gagne ban lapli intermitante ki parfois zot pu moderer a forte et aussi nou kapav gagne ban lorage.',
+    'La mer li tres forte a grosse a grosse meme nous bizin dire.',
+    'La Mer gros avec ban la houle de lorde te set met et sa p aussi ramene ban rat de marer kot ban region cotiere a basse altitude.',
+    'Donc ban sorti en mer strictement deconseiller.',
+    'National Emergency operations command fin insite pu passe en alerte trois azordi tanto.','Depi bonheure ban membres sa Iunite ta p evaluer situation, prend ban dispositions ki necessaire et zot p coordine ban loperation ban lekip ki lor terrin.',
+    'Commissaire la police Anil Kumardip fin preside de renion sa Samedi la.',
+  'En sa Samedi cyclonik la, dans sizieme letage dans Citadelle Mall dans Port-Louis.',
+  'Emergency operations Command ti for pivive.',
+  'Tout ban services etientielle finn re grouper ici pour mieu Coordone ban interventions lor terrin en sa period cyclonic la.',
+  'Gramatin commissaire la police Anil kumar Dip fin preside enn reunion NEOCOP.',
+  'Nous fin prend ban dispositions kuma  mone dire pu sap lavie dimoune, ena banne linstitutions vital kuma lhopital ki bizin rouler, communication bizin ena, nous ena ban blinder de la SMF ki nou in fini position zot partout kot si ena ban dimoune pu transport zot lhopital kot zot bizin ban soin sa aussi nou in prend dispositions.',
+  
+  'Ki piblik bizin comprend kan ena enn lalarte troi, li pena pu sorti dehor nous in gueter ena kntn al dans bord la mer guet vague tir photo, mais mo p dir zot ena partouille partout, la police pu intrangizan, reste dans zot lakaz reste a labrit.','Tout long la zourne ban services durgence ti en buku a faire ban sapeur pompier fin effectuer trente de interventions depi lalerte enn.',
+  'NeoCop p mentenir la vigialance maximal ban equip interventions p reste mobiliser pu parer a toute eventualiter dans ban plis bref delay a traver pay.',
+  'Piblik bizin plis prident.',
+  'Dan laeroport Plaissnaces quatre lappareilles fin reussi decoler pli boheur ki ti prevu a zordi dernier vol fin prevu vingt-une heure dice azordi asoir apres sa laeroport pu fermer.',
+  'Reprogrammation ban vol a cause movais le temps finn concerne plis ki mille sis cent pasazer.',
+  'Et puis dans enn communiker lototech p inform publik ki fin revoiye tiraze ki ti sipozer ena azordi asoir, tirizae pu fr aussitot ki tir alerte cyclone.',
+  'Moris classer dizneviem lor lindice democratik de mille vingt et enn selon economist intelligence unit.','Nous pays en effet cest sel pays africain considerer kuma enn "anti ademocracy" lor classement zeneral, Moris classer apres Royaume unit ec devant lAutriche.','Sarah Arnaut.',
+  'Moris li seul pay lafrik subsarahrienne ki figure parmit vingt et enn pays ki considerer kuma ban full democracies selon lindice de democracy deux mille vingt et enn de leconomist intelligence unit.',
+  'Raport la p explik ki Moris fer parti ban pays kin gagne plis ki huit points virgule zero huit dans cas moris en matiere democracy.',
+  'Ban pays ki considerer kuma ban full democracies, cest ban pays ki respecter ban liberter politik fondamentale et ban liberter civil, ban pays ki adopter enn ciltire politik propice a lepanouissement la democracy et kot fonctionment gouvernment li satisfesant,',
+  'kot ban media independant et diversifier et kot pouvoire judisiere li independant ec ban decision judiciers zot respecter.',
+  'Leconomist intelligence unit, li pibliyer chak lanner raport lor lindice de la democracy, seki offert enn analyse aprofondit de ban development economic, politik dans enn lenvironment mondial complex, ec identifier ban lopportiniter ban tendance ban risk a lechelle mondialle ec nationale, si lannee derneier moris ti classer vingtiemme lor sa la liste la.',
+  'ca lannee la lin ggn 1 place devant lautriche ec derriere royaume unie, raport la inn publier au mois de fevrirer sa lannee la et li fer letat de la situation mondiale en matiere de democracy.',
+  'Moins ki la moitier du monde vive en democracy dans sa raport la Norveige, Nouvelle zelande et finlande p domine sa classement la avec ban score de nef virgile soisante kinze, nef virgile trente set et nef virgile vingt set points respectivement.',
+  'Et justement azordi dans conference de presse MSM ministre infrastructure nationale fin commente sa raport la ki classe moris parmi ban vingtet enn pays classifier kuma ban democracy complet, Boby Hurriram fin aussi soulingnier ki nous pay fin ggn score nef virgile diz set lor dice en ce ki concerne processuse electorale sois meme point ki lamerik. Lor dossier chagos minist Hurriram fin declarer ki nous souverenter territorial li pena prix.',
+  'Economist Intelligence Report deux mille vingt et enn fin pibliyer sa mois la, raport la ki classe moris parmi ban vingt et enn pays considerer kuma ban democracy complet remplit avec ban enseignment dapres ministe Bobby Hurreeram.',
+  'Li noter ki nous pay gagne meme note r lamerik en ce ki concerne processus electorale ec nous devance ban pays kuma grande bretagne, Japon ec Coree du sud en ce ki concerne fonctionnement gouvernment sel indice kot moris enregistrer moins points ces participation politik.',
+  'Quand nous guet seki p passer lor lecheckier politik en ce moment tout ban camarad in remarker, in touver, in tender les insultes de bas etages lor enn radio, radio plus de sur trois, Roshi Badhin, Shakeel Mohammed laguerre kuma nous dir lexpression creole laguerre kuma sat-lichien en publik, et lerla nous surpris ki political participation nous score moins?.',
+  'Cest parceki zistement, kan sa zenesse la guet sa kaliter cinema la dehos li pencer ki toute la classe politik pareille.','Bobby Hurreeram deplore pare ailleure ban propos depi lopositions ki li kalifier kuma grossier.',
+  'Li finn aussi commente ban recent demissions dans lopposition.',
+  'Larogance, insolance, grossiereter.',
+  'Ki sanla ou kroire envie reste dans sa MMM la sak fois li gagne enn demission.',
+  'Bon debara, in vender, in aster, money politics. Mais seulment quand dimoune kitte nous alle ec MMM.',
+  'Et la MMM in met carrotte premier ministe divan zot sanla kuma appel sa. Lerla sanala pas pu ena certain zournal ki sorti zis dans week end pas pu vin tir long long gros gros editoriale les faits, les faits',
+  'Paul Beranger in rentre dans lhistoire comme traite du ciecle kuma li tombe dans caro cane li dir Ramgoolam pas bon.',
+  'La zordi li p regalouper pu li rerode rencontes.',
+  'Et que dire li quand enn lot li kitte MSM li aller li li a cause li panne gagne ministe finance la lerla li korek.',
+  'Veu dire kan kitte MSM ou al dans lot direction et bizin zot realiser kot nous kan p kitte nous mo kne finn ena kin kitte nous sipa mo kroire quatre ans de cela, ena enn finn aller deux ans ce cela mais kot banla la tou les semaines.',
+  'Si nous bizin kozer em be presker tout les zours ena dimooune p aller.',
+  'Et zordi eski  ban vrai militants p trouve zot dans sa lalliance, nouvo lalliance encore enn fois ki zot leader sois disant historik p al fr.',
+  'Eski ban vrai travailiste retrouve zot ladan, eski ban frai jo p retrove zot dans labbatoire ki PMSD p ammen zot?  Raiponse li simple. Cest en grand Non.',
+  'Evoquant missions scientific dans ban delo chagossiens, Bobby Hurreeram fin dir ki souverenter territorial moris pena prix.','Ces pendant ki Pravin Jugnauth premier minist nous pays, pendant ki le msm au pouvoir nous quadricolor lotter lor Peros Bhanos, certain kapav vin questioner ber combien sa pakbo la inn kouter ber pena pri sa vou zot. Nous liberter pena pri, nou souverenter territorial pena prix.',
+  'Commentant ban realisations premier minist, minist Hurreeram dir ke ces tou a fait normal ki certain politicien envie rezouin ban rans gouvernment li azouter ki la porte ouvert a tout ban dimounes ki envie soutenir action gouvernmentale.','Et dans conference de presse MSM finne aussi koz lor ban prozer infrastructures.','La lute conte la drogue insi ke ban classe en presentielle.','Nous retourve megan ponakalaikien.',
+  'Reprise ban classe dans lekol fin commenter par deputer Soobhasnee Luchmun-roy li dir ki sa decision la finn bien reflechi et ke ki gouvernment finn bien prend ban mesure sekiriter ban zanfan dans lekol.',
+  'Cest enn decision calculer parceki zot pu rapel ki en Janvier LUNICEF ti tir enn communiker pu dir ki lekol li pas enn facter principal de transmission de covid et ke ban zanfan ki privee de zot scolariter pe malheureusement subir ban prejudice.',
+  'Mais li important ki nous en tant ki parents nous donne lexample a nous ban zanfan.',
+  'Nou bizin kapav expliker ki ena ban jeste de barriere pu aide nous controle justement tout ce ki est covid.',
+  'De so koter PPS Gilbert Bablee finn revin lor ban assistances financiere ki finn accorder par gouvernement pendant pandemi covid 19.',
+  'Li finn aussi koz lor ban projects infrastuctures dan pay.',
+  'Lil moris zordi li enn chantier ena enn colaboration enn DU munisipaliter, enn DU district council, enn DU minister lenvironment, enn DU minister linfrastructure public, tou sala ki nous p fr.',
+  'Nous p modernise nous pays la nous p guet Hurbut terminal p vini nou p rentre dans en lot zeneration ki zordi p vini pu benefisier pu sa ban infrastuctures la.',
+  'Bn intervenant finn aussi evok premier raport lor consomations la drogue dans moris ki finn fec rende publik. Zot dire ki la lute conte trafic la drogue li reste enn prioriter.',
+  'A partir sa samedi diz nef fevier la, lacces a certain endroits public li limiter a ban dimoune ki ena 1 schema vaccinal complet zis ban dimounes ki fin fer tout zot ban vaccins anti covid pu kapav al dans ban lhopital, restorant, salon de coiffure et salle de sports entre autres. Nous fer le point avec nitoush hadihaa.',
+  'Sa la loi la finn rentre en viger sa samedi la pu gagn laccer a certain lendroit publik, a partir sa diz nef fevriyer la bizin prensente enn carte vaccination anti covid complete.',
+  'En shema vaccinal complet cest de doze enn vaccin ou enn doze dan cas Johnson and Johnson ec oussi doze rapel booster shot.',
+  'Concerner par sa ban mesures la ban institision leducation, ban centres formation, ban lhopital ec clinik. Sa nouvo restriction sanitaire la li aussi concernes ban centres communautaires, shelter residentielle, dortoires, salon de coiffure, cinema, restaurants, pub ec bars. Laccess a ban lhotels, guesthouse et aussi ban salles de spors pu aussi restrain a ban dimoune fully vaccinated ec laeroport, le port ec ban stations la police, ban casernes pompiers li aussi figire lor sa la liste la.',
+  'Si en personne pas respecter la loi ec al dans enn sa ban lendroit la sans presente enn shema vaccinale complet li pu considerer kuma enn deli ki pinir par la loie.',
+  'Et nous ti p dir ou hier minister la santer fin fer ban changement en se ki concernes periode auto isolement en effect li pu duree set zours asterla au lieu de dice ec pu ban dimoune ki fin gagne contact directe avec ban patients positif fer isolement pas pu obligatoire.',
+  'Sa nouveau protocol la fin rentre en viger a partir a zordi gramatin. Et nous marque n pose pub asterla.',
+  'Et puis dehors tempette Eunice p contigner balaye le nord oueste Lerope en parallel p attan ki pu ena gros divent lor cote allement sa tempete la ki fin cause buku degat materielle finne deja cause la mort traize dimoune dans royaume uni au moins quate cent mille foiyers pena courrant.',
+  'En cou deille lor bulletin meteo avant nous terminer, et justement nous fec gagne dernier bulletin kin tirer dize nef her dice azordi asoir.',
+  'Enn warning cyclone classe trois en viger lor moris.',
+  'A diz nef her cyclone tropical Emnati ti centrer a environ trois cent soisante kilomet au nord de cap malheureux.',
+  'Cyclone tropical emnati p contignier deplacer ver sud ouest a environ dice-set kilomet her, lor sa trajectoire la emnati ti p raproche de nous lile, pu passe a so point plis raprocher demain gramatin enn warning cyclone classe trois en viger lor moris.',
+  'P conseil piblik prend tout ban precautions necessaires la mer pu movais avec vague ziska set met, prochain bulletin pu prevu vers ving deux heures dice.',
+  'Et nous zournal termine ici, madam ,missier merci ou fin suive li. Bonne soiree.'
+
+  ],
+//tatiana
+  ktv_20_02_2022:[
+"Madam missier bonsoir a la une nous zournal",
+"pena auken warning cyclone dans moris depi 4hr tanto azordi.",
+"Enn avis divent fort ec gros vague en viger lor lil.",
+"Pena classe en presentielle demain Lundi dans to etablissement scolaire." ,
+"Classe pu reprend a partir mardi 22 fevriyer.", "Ec dehors tension entre l'Ukraine ec la Russie p contigne intensifier.",
+
+"Depi 4h tanto azordi", 
+"pena auken warning cyclone dan moris Emnati", 
+"ki fin intensifier en enn cyclone tropical intense," ,
+"p contignier eloigne de nous region si a 4hr tanto Emnati ti' environ a 360km nord oueste moris", 
+"toutefois ban nuage assossier r a sa cyclone la pu contignier influence letemps lor lil.",
+"Gros divent pu commence diminier en intensiter a partir demain pendant la zournee",
+"a cause p continier gagne divent ziska 90km/h dans certain lendroits ec aussi a cause la mer movais.",
+"Enn avis divent fort ec gros vague en viger lor lil." ,
+"Li pu valab ziska 10hr demain gramatin.",
+"P conceil piblik maintenir prudence lor la route ec evite al dans la mer.",
+"Mo ti p dir ou dans tit pas pu ena classe en presentielle demain lundi 21 fevriyer",
+"dans ban lekol preprimaire, primaire, secondaire, ban lekol special education needs, ban centres lenseignment techniques ec professionel ec y inclu MITD ec polytechnique Moris",
+"de meme ki ban linstitution lenseignement superieure ban chef etablisment ec personelle non enseignant pu bizin al dans zot lekol ec centres respectifs.",
+"Class en presentielle pu reprend a partir mardi 22 fevriyer et a noter ku gerant ban creche bizin assurer ki zot respecter protocol sekiriter en cas zot pu ouvert pu acceuillie ban zanfan' 'et ces a ban parent pu decider si zot pu envoy zot zanfant dans la creche ou pas.",
+
+"Asterla nous revin lor parcour cyclone Emnati li fine passe a so point le plus raprocher avec moris vers 5hr gramatin.",
+" a zordi li ti a 320 km nor nord-oueste grand-baie justement dans le nord pay movais letemps ec enn la mer demonter fin predomine sa dimancehe la.",
+" Nitoush Adia ec so lekip ti al dan plisier lendroit dans rezion le nord gramatin. Nou geut so reportaze.",
+
+"Cap Malhereux a zordi gramatin ban pecher rezion la fin vini depi bonheur.",
+" Au fait depi 6hr gramatin mo la  nous in vin verifier bato et tout, mone al la maison apres asterla mone retourn 8h et demi et la nous p checker nous p guet partout bato si tout ok si tout korek.",
+"En meme temp nous profiter fer enn ti nettoyaze ban ti retousse ki ena pu fr ban ti reparation ki ena pu fr nous fini fer tout kuma nou deja la.",
+"Kuma nous pas p travail.",
+"Et nous profiter nous fini ramasse tout nous travail kumsa apres cyclone nous kapav reprend travail kuma normal.",
+
+"Pu region le nord Batsirai," ,
+"Emnati  lakel ti plis kraz ici?",
+"Batsirai in fr assez degats et mone truve Emnati assez fort li assez puissant de coter raffales et tout. Nous verifier ki nous bato li bien a terre, premiere chose mo commence fer mo maintenance.",
+" Nous bizin vin check nous bato ici , nous p fer relay 2 dimoune 3 dimoune nous cheker nou p aller nous p communik ec nou ban camarad tou p fer zot kne bato kuma eter si tout krkr ou non, si ena problem zot tout bizin vini.",
+
+"Imper plis loin nous fin zuwen ban touristes ki p presser pu rentrer letemps cyclonik la p persister.",
+"Lor la plaze publik la cuvette ban zoli vagues mais ki reste danzerer ban nazer imprident panne fin respecter ban consignes ban lautoriter, enn act irresponsable ki ena buku ban risks. Sa la mer la li zoli, mais li reste enn pieze. Au zalentour midi ban laplie ban gros laplie lor grand baie fin rapel nous ki moris li touzour en alerte cyclonik.",
+
+"Direction Grand Gaube a kot ban commerces operationer malgres cyclone classe 4. Ena di pain ban mines inci de suite, ban zafr essentielles plutot. La dimanche la, ziska ki ler ou pu travail? Peut etre depi, li letemps la bon depi midi kumsa. Dans bois marchant lor lautoroute, imper degats avec ban zarbres ki pa finn resister a ban gros raffales ki fin provoker par emnati dan so tourner d'adieu.",
+
+"Mo ti p dir zot en debut nous zournal, cest ver 4hr 10 tanto sa dimanche la ki station meteo finn enleve warning cyclone dans Moris toutefois la mer toujour movais ec ena enn lavie gros divent Jenny Alapa.",
+
+"Zordi apresmidi dans station meteorologik vacoas pena repo pu ban previsionist,appel telephonik, analyse ban donnee et ban cartes satelites, lekip pas p baisse les bras. Meme apres ki finn tir lavertissement cyclone dans moris en effect Emnati ti vin passe au plus pres pay a 5hr zordi gramatin ec ban services meteo fin enleve ban lalerte cyclonique 12hs plus tard. Ena plisir raisons pu sa.",
+
+"Emnati ti enn gros cyclone, un rayon de vent de 100km/h li ti preske 1000km. Ti ena ban bandes nuageuses avec gros la plie dans moris et cest dans sa ban bandes nuages la ki normalement nous ena ban fort raffales. Et nous ena aussi ban gros la pli. Nous in trouver ki in ggn ban gros la plie loraze dans le nord ki finn cause effectivement ban gros accumulations delo et avec ban gros raffales kin continuer justement ena banne limpacte par examples ban branches casser et tout sala. Cest pour sa que meteo avant li lev enn warning li assurer ki pena risks. Cest ici troux au cerfs dans station  meteorologik ki ban suivies lor bannes nuageuses p fer dans sa la salle observation la ban previsioniste p vey letemps et sa graces a ban linformations ki fourni par radar dopler. Enn Radar cest enn zouti ki nous servi pu observe ban nuages ki traverse lil moris dans enn rayon de 200 a 450 kilomet. Radar la nous servi li pu tout ban niaze ki traverse moris, lerla nous ena enn lidee ki so lintensiter  laplie et nous kapav aussi ena ban linformation kuma ban divent et direction. Nous kapav determine hauter ec volime ban niaze. Ou pu truver lor nous ban imaze rada, nous kapav observe sa ban niaze, le centre du system kin traverse au nord de moris et meme lor radar nous in kapav mesure la distance. Nous toujour ena ban bandes actifs assossier r Emnati ki pu traverse lil ec sa pu donne ban gros la plie ec ban gros divent sur lil. Autant donnee ki permet sa ban meteorologue la  prevoire avec plis precision ki letemp pu fr dans ban prochaine 24hr.",
+
+"Neoc national emergency operations command fer enn lapel pu ki piblik fer preve de grand prudance entre autre bizin pas touche ban difil electrik , ban pecher bizin pas al la mer et bizin fr prudence lor la route cotiere. Minister la santer de so koter p demande piblik bouie delo avant boire avec pas manze ban fruie kin tomber bizin aussi demander a ceki pas accumule delo pu empeche proliferation moustik.",
+
+"Et entre temps ban lekip ceb, smf ec pompier p contigne fer ban interventions kot necessaire ziska 6hr tanto azordi imper plis ki 450 foiyer ki toujour pena courant ourvashi beekarry bungun ec so lekip ti dans region port louis ec ban faubour so reportaze.",
+
+"Azordi ti ena ban lekip special mobile force a traver pays ki ti mobiliser pu deblaye ban la route. Depuis ce matin la special mobile force in mobiliser a travers lile. Cest sa nou par region le nord le sud leste le centre  avec loueste. Region port louis depuis ce matin la nous trouver nous p al fr sixieme intervention quand pu tir class et surtt ban usazer de la route zot kapav sorti en toute precaution. Sa pied la lin verse lor difil CEB ec difil telecom aussi. Quand mo arrive lor spot mo fer enn letat des lieu mo telephone ban officiers dans national emergency operation command, zot envoye ban officiers de ceb avec du mautitius telecom aussi tot mo gagne laval, mo gagne approval r zot ki pena auken danger, lerla mo ban lekip zot progressivement zot commence coupe pied la lerla 16h30 zordi zordi autotal 469 foiyer ti toujour priver r lelectriciter. Plisier lekip ceb ti p travail darache pied pu retablir lalimentation en electriciter.",
+ 
+"Ena ban loperations ki nous kapav fer en classe 4 kot nous kapav toujour largue courant. Mais en general nous lekip reste sur le terrin,in reparer, donc nous panne gagne aussi casser par raport a Batsirai. Lalerte cyclonic finn enlever ver 16h 10 a zordi. Enn avis divent fort ec gros vague finn rentre enviger. Piblik conseiller fer preuve de vigilance.",
+
+"Dan louest ec le sud lil fin gagne ban raffales ziska 86km princiaplement dans le morne apart la plie pendant la journee panne finn ena gros degats  dans sa ban rezions  la certain laboutik ti ouvert. Dassa apalasawmy ec so lekip ti lor la route litoral dans louest ec le sud. Voici so reportaz.",
+
+"Azordi gramatin letemp ti plito calme dan oueste lile sauf ti ena imper la plie ec raffales par moment. Alors ki soleil ti p lever niaze dans le ciel ti p aller tigit tigit dans Tamarin. Lor la plaze sa ban pechers la finn vin guet zot bato. Cyclone classe 4 nous in vin geuet nous bato la apres nous in  vinn guet la mer la kuma eter delo sale pas kne kan nous pu al la peche la. Mone  truve mo bato stable, nous in bien attache li, cyclone la nous in truve li imper for. zordi gramatin pena sa bel la brize la kumadir.",
+
+"Inn arrive asterla 8hr gramatin pena buku dimoune ou vehicles lor la route si la pluspart bann commerces zot fermer ena kin decide pu ouvert malgre ti ena class 4. Dipain ek gato delhuile finn pres pu ban premiers clients. Ver 4hr mone ouvert gramatin, vend dipain gato de dimoune kapav passer prend imper manzer tout sala . Pas habitier ggn dipain dan classe 4, mais la in ggn la krk. Kne in passe imper loin r nous bizin dir pou panne gagne sa kantiter degat la par ici.",
+
+"Lor la route litoral loueste nous finn aussi zuwen ban mauritiens ki p al travail malgre sa movais letemps la. Par example Jordana ki enn employee dhotel. P alle travail lhotel bizin kitte lakaz zenfan missier lakaz mais bizin travail nn ki pu fr. Et sinon kuma ou finn vive sa cyclone heir soir ec gramatin, trankil lakaz cuit farata manzer dormi . Mo p attant transport compagnie vini pu vin prend moi pu al travail dan gorges pu al guet zanimau donne banla manzer apres revini.",
+
+"Imper braches ec feilles parci parla, banne accumulations delo par moment, pas finn ena ban gros degats dans regions west sauf pi sa pied la dans ile au sancho panne finn kapav resister aban raffales emnati. Dans le sud la vie economic ti p reprend tigit rtigit prendant la journee. Dans chemain grenier, sourinam ek plaine magnian zis imper la boutik ek ban tabazie ti ouvert, ena aussi imper marchan dans bord chimain  banla p tente zot chance avec ban rare clients. kan gagan cyclone class 4 caro fini total loss partout mone gagne enn tigit legime mone amener mo ven li kuma letemp refer pu  ggn 1 ti cass . Kuma ici nous imper trankil. Ou pas per pu sorti dans sa class 4 la? Non be mo pena legime mo obliger.",
+
+"Dan louest ec le sid moris Emnati pas ti aussi fort kuma Batsirai sa gris niaze la p reflet  lor la mer  sa delo la bou la ec la mer fi n zuwen. Ici a maconder la grisaie cest emparer du reflect de la mer ect comme a ala coutumer pendant le movais temp la bou et la mer ne fon plus kun.",
+
+"Cyclone Emnatin pu passe a plus pres r lile la reunion entre 300 et 380 km au nord demain asoir insi la renuion li ena en alerte rouge, attan ki letemps pu gater azordi asoir deza 3000 dimoune dans lile pena courant ban poto electrik finn tomber a cause gros divent. Apres passage emnati minister lagro industry ki ban park, reserve la foret inisi ki ban parcours dans la nature pu reste fermer ziska mercredi 23 fevriyer en raison ban travails nettoyaze. Et puis ministere la santer p informe publik ki campagne vaccination conte covid -19 prevue pour lundi 21 fevriyer fin annuler dans tout centres y compris ban lhopital rezional ec au nivo ban lekip mobile ki fr vaccination.",
+
+"Apres verification minister la santer pu inform publik lor date kot vaccination pu reprend. Minister touristm ti reunir ban operater dans lhotellerie donc vers la fin la semaine dans eben. Donc fin discite lor ban strategi ki pu permiet realise lobjectif pu ggn 1million touristes dans moris sa lannee la.",
+
+"Relaunching tourism as one mauritius est teme ki fin soizir pu sa renconte consultative ki p vize notament a cordoner tout ban operater local pu la relance du tourism. Ban strategie important fin resorti dans sa renconte la. Decembre ec Janvier pas finn facile et tant donner situation international mais la lespoire p revini donc nous p prepare ban strategies. Dabors enn strategie pu lannee 2022 cour terme pou ki nous kapav arrive a 1 million touriste dans lannee 2022, enn strategie long terme  pu 10 ans avenir pu reflechir ki manier touriste kav developer pour contribuer a development nous pay en entier et troisemement entre les deux enn strategie intermediere juska la fin de lanne 2024. La pluspart ban professionel du touriste present ti koz lor ban perspective plis favorable pour lannee 2022.",
+
+"Sa strategie la li pu finaliser dans ban jours avenir ek li pu proposer au gouvernment pu accompagne la relance du secteure des le mois de mars .",
+
+"Dans Marahasnah bavan dans  moka hier ti ena enn ceremonie pu mark lanniversaire la naissance chachapratee shivajee. En grand guerrier indien ki ti nee le 19 fevriyer 1630 pu loccasion president mauritius marathi  mandelee federesion Assent govind finn dire ki sa grand guerrier la li source inspiration buku dirizan moricien. dan linde premier minist modi in fr construre 2 statue shivajee dans ban places strategik dans sa pays la en memoire sa grand guerrier la ki finn mark lhistoire indien.",
+
+"Donc dehors crise lukraine la russie p continuer Emanuel Macron ec Vladimir Putin supposer gagan enn conversation par telephone sa dimmanche li considerer kuma enn tentative derniere chance pu evite la guerre. Entre temp finn discute sa tension la dans conferrence annuel lor securiter ki fin fer dans munic.",
+
+"Ban dernier estimation gouverment americain p montrer ki ena entre 169 000 ek 190 000 soldats risse kin satrioner lor frontiere lukraine avec la Russie ec viello russie. Pena auken troupe ki fin retirer par conte la russie  finn azoute ban nouvo troupe cest seki Jen stoltenberg finn dir dans enn interview lor chain Dutch veller dans siaze conference annuelle  lor sekiriter. Secretaire General Lotan finn azouter ki ena ban lindications ki la rissie p prepare pu cree enn pretex pu attack lukraine. Lotan finn transfer so personnel depi kieff ler loueste lukraine ec brucelle ec tension finn augmenter dapres information ki fin relaiyer  par dutch veller dapres jen staltenberg lotan li a enn solition politik. Lukrain pas enn letat membre lotan et lotan pena troupes labas mais ena bann domaines coorperation ec certain letat membres lotan finn contribier dans defences national l'Ukraine dans kieff Lotan ena enn biro lieson entre linformation ec documentation la fin lannee 90.",
+
+"La maison blanche p contignier dire ki la rissie p repare li pu lance enn lattack contre lukraine, Joe biden pu convok enn reunion conceil sekiriter national lor sa sitiation la. Darpes boris Johnson ban rensignemnent p suggerer ki la rusissie ena lintention lance enn invasion ki pu encercler capital lukraine Kieffe dans enn interview ki lin donne dan BBC . Li dir ki ena ban preuves ki suggerer ki la russie p prepare plis grand la guerre dans lerope depuis 1945.", 
+
+"Et enn dernier coup deille lor nouvelles letemps, pena oken warning cyclone dans moris emnati p continier eloigne de nous region toute fois banne bandes nuageuse assossier a sa cyclone la pu continier influence letemp lor lile et a cause  p continier ggn divan ziska 90km/h dans certain lendroit", "et ec aussi a cause la mer li movais ena avis divent fort ec gros vague en viger lor lile.", "Li pu valabe ziska demain 10hr gramatin. p conceil piblik maintenir pridence lor la route  ec evite al dans la mer.",
+
+"Et cest ici ki nous zournal terminer, Madam missier merci ou finn suive li. Bonne soirer "
+],
+//tatiana
+ktv_21_02_2022:[
+  "Madam missier bonsoir ban tits sa zournal la:",
+  "Cyclone tropical emnati p contigne eloignier de nous region, station meteo vacoas finn met enn warning divent fort ec gros la houle pu moris ziska 22h zordi.",
+  "Moris enn ban meilleure lendroit dans le monde pu travail a distance 2022 dapres lindice work from where ever de kayake si nous pay classer meillier pay region moyenne orient Afrique. ",
+  "Elaboration enn digital government applications blueprint pu informatise plis services piblik dans moris enn delegation depi mauritius informatics center, enn lagence minister linformatique dans linde actuellement dans moris ",
+  " Seggae a lhonneure zordi le 21 fevriyer avec premier zournee national Seggae en memoire feu jose reginal topize plus connu kuma kaya et aussi cest aussi journee national la langue maternellle. et dehor laustralie in reouvert so ban frontieres zordi a tout ban touristes ki vaccinee apres preski 2 ans fermeture.",
+  
+  
+  "Cyclone tropical Emnati p contigne eloignier de nous region et li p al lor madagascar a 4hr zordi tanto li ti 535 km dans loueste nord west moris. Station meteo vacoas in met en warning divent for ek gros la houle ziska 22hr zordi p ggn divent ziska 90km/h ek bann vague 4 a 6 metes hauter et malgre ban averstissement meteo lor danger ki ena ena ban morisien ki finn al la plage.",
+  
+  " Et apres passage cyclone batsirai Agricultural marketting board finn importe certain legume pour palire le manque lor marcher. Minist lagro industrie ti dans moka zordi et li dir li satisfait kaliter ban legumes ki finn importer depi linde gouvermnent finn donne subside pu sa importation la Manish Gobin finn demande ban planter ki finn gagne ban degats dans zot plantation apres passage cyclone Emnati vin enregistrer zot avec small farmers welfare funds ec farer a partir mercredi le 23 fevriyer.",
+  
+  "Ti ena buku dimoune  dans point de ventes lAMB azordi ban clients ti vin aster ban legimes frais ki finn importer recement depi linde.",
+   "tout bon a cause sa nou p aster. Voila so prix abordable. Fer enn constat de ban kaliter ban legimes ki finn importer ces a cause sa raison la ki ministe lagros industry ek ban haut fonctionaires fin all dans moka zordi apres midi. Dans warehous AMB manish gobin finn inspecter sak lot  carrotes lisou ou encore haricot vert. Ban legime zot disponibles dan ban 13 points de ventes amb dans ban prix ki varier de  25rs la livre a 60rs demi kilo pu haricot verts. Minis finn ensuite ena enn travail avec personnel li finn met laccent lor raport Kaliter prix lor sa ban legime importer la ki benefisier enn sibside gouvernment. ",
+  
+   "Ban prix, cest enn prix subseedised. Si nous ena pu repercute le coup ki amb in payer pu importer. Et la lin importe en urgence par avion, ber so prix li pu multiplier par 4 multiplier par 5 mais being a caring government nous pas p repasse sa prix la dans so totaliter au consomateures et ena ban prix heavily subsidised , zarico pu vend a 60rs la livre carrot a 30rs la livre et lisou a 25rs la livre en plus biensure de ban produit ki deja fixer cest a dire pomme de terre zoinion ec laie sa li deza fixer kuma nous kne. Coco le stock est suffizan et li ti korek pu cavadee li touzout korek pu shivaratee ki p vini la semaine prochaine. Maneesh gobin finn aussi commente la situation apres passaze emnati. Li envite ban planter ki finn ena ban la perte ou dommages inscrire zot dans exercise ki p fer mercredi le 23 ziska vedredi 25 fevriyer dans small farmers wellfare funds ec dans farer. ",
+  
+   " Moris li enn ban meilliere pay dans le monde pu travail a distance en 2022 indice work from where ever de kayake in donne la liste ban meilleure lendroit pu travail a distance pu ban nomades numerik. Moris finn nomer kuma 4eme meilleure lendroit dans le monde graces a ban la lignes arerienne ki vin ici coup de la vie sekiriter ek stabiliter. Moris finn aussi classer meilleure pay au nivo moyenne orient ec lafrique. Economic development board p fer tout pu promouvoire attractiviter pay ena ban campagne promotionel actuellement. ",
+  
+   "Travail ec voyazer ensame arreter pu enn de mois si lendroit la li convenable. Cest reve buku dimoune, ena aussi buku dimoune ki finn fr sa reve la vinn realiter. Nou appel zot ban nomades numerik. Pu zot moris li en destination priver ces ce ki kayak lider mondiale ban moteur recherches de voyage finn raporter. Emn effect moris finn arrive en tete sa classement la pu lafrique et moyene orient de lindice work from where ever au nivo mondial nous pays li en 4eme position apres portugale lespagne et la romanie. Apart le climat et la beauter du pay le site li raportter ki moris li beneficier  enn fort stabiliter politk, denn faible tau de violence et den coup de la vie abordable. Nou pay finn obtenir le meilleure score dans la region africaine ec moyene orient pu ban services ki li offert kuma access internet haute vitesse ec visa premium sois le visa de travail a distance gratuit.",
+   
+   "Moris continier pu seduire ban larticles bann medias en ligne temoigne de sa lengoument la de ban etrangers pu vin investi dan nous pay en plus de la  securiter sanitaire nous pays li propose plusieure ban faciliter pu ban entreprises, ban nomads numerik  le centre financier international robuste li ajoute aussi a lattractiviter nous pay. Moris li aussi position li kuma le pay ki ena le plus haut nivo de prosperiter dans laffrique dans lindice de prosperiter legatum. ",
+  
+   "Dans secter informatik en delegation depi national informatiques center en lagence ki sous secter technologik dans linde actuellement en visite dans mo moris pu ena ban renuion pendant 5 jours ban minister dans moris pu idientifier ban prioriter technologique a terme pu develop enn digital application blueprint pu informatize plis services publik dans moris.",
+  
+   "Mise en place en E-government dans moris li pu beneficier lexpertise indien. linde li reconaitre mondialment pu so metrise technologik dans domaine priver ek piblik.",
+   "NIC li en la chance kin fr plusieure ban project national dans linde et zot in fer ban project bien averser dans termes ict. Bizin ena ban colaboration bizin ena ban expertises etranger kot nous kapav partage nou savoire faire mais aussi nous appran avec zot. Nous le digitalise moris, nous envie fr moris vin enn hub pour le secteur TIC. Avec levolution numerik transformation digital dans moris li reste en de ban prioriter gouvernment enn dizaines ministers kuma ledication, transport linterrier, lenerzie ou lintegration social entre autre concerner par sa project la ki realiser avec soutien gouvernment indien. ",
+  
+   "Nou pu travail avec en dizainne minister pu etidier zot besoins ec prioriter ec ensi trouve bans solutions en terms infranstructure ban applications ec development ban competances.",
+  "premier fois en delegation nous national informatic center finn vin moris mo penser ke ces enn signe nous partenaria futuriste linde p souaitte amen ban solutions tailler sur mesure pu ameliore la vie lepep moricien. Depi sa ban sessions travails la pu ena enn digital government applications blueprint pu cree enn mechanism ki pu aide fisseler project dizitalization ban services piblik dans moris.",
+  
+  "Seggae a lhoner zordi 21 fevriyer pu premier fois p observer zournee national seggae en memoire feu joseph reginald topize plus connu comme kaya zordi tanto a partir 20h30 ou pu kapav suive enn concert virtuelle organiser par minister art ec partrimone culturelle 23 ans apres disparitions kaya seggae fr partie paysaze musical local enn style kin finn influences buku artistes.",
+  
+  "Creater Seggae kaya ti tir premier album seggae nous la misik en 1989 sa melaze sega ec reggae jamaicain la pu kne enn grand success a travers pays seki ouvert enn nouvo chapitre nous lhistoire misical. Seggae lin prend form en phenomene musical meme parseki lin tousse dimoune dans enn plis grand mesire ec lin bien assizer ec nous zamai fini remercier Kaya pu sa linitiative la. Celebrer pu premier fois sa 21 fevrier la. La journer national seggae coinincide avec la journee international la langue maternelle cest enn moment kalifier kuma symbolic pu kristina chan ritou kin fin dirige publication lor la lie ec loevre kaya kin sorti en 2020. ",
+  
+  "Enn zoli sybolic ladans parceki kaya cetait vraiment en artiste complet ki ti vraiment ena enn grand lattachement avec so la langue maternelle langue creole ek en meme temp parceki la misik seggae de la misik seggae li enn fusion entre sega ec raggae. Li dir kumsa li envie so la misik, nou la misik evoluer. 33ans apres premier album seggae dans moris sa style la p contigne inspirer certain artistes fin temoin so lemergence ena certain kin fin ban ambassader seggae dans lot pays",
+  
+  "cest enn la miski ki depi mo en zanfan mo suive sa ec lerla nou in choisir seggae pu ki nous vehicule nou ban messages ec nous aussi nous in vin ban ambassader seggae depi kumadir nous in fr ban tourners leurope dans ban festivals international kot ena buku ban jamaicain. Enn pied kin planter ici bizin contigne aroze li pu ki li contigne pousser. Mons senti ki la misik la kin vraiment ces sa nous kav exprime nous bien pu tout messages ki derouler dans la vie pu tout ban zafr ki derouler dans la vie cest enn ledication. Seggae ces zis enn la misik mais to feel en zafr vraiment en profondeur ladan to partaze to sentiment pluto avant tout. ",
+  
+  "A traver la zournee international seggae sa 21 fevriyer la ec la zourner ki destiner a bhojpuri gammat le 8 fevriyer ban lotoriter envie valorise nous lheritaze musical zordi asooire enn concert virtuelle zournee seggae pu diffuser lor paze facebook minister lart ek patrimoine culturel aparir 8 30.",
+  
+  "Li toute a fait normal ki dans enn logic nous reconnait ban style de music pu nu preserve ban style de music ki nou decrete en zour le 21 fevriyer comme la journee du seggae biensure en memoire kaya ki est le createur de sa style de music la enn online concert ki nous p fr se soir en collaboration avec plusieur ban artistes ki toujour pratique ce style de music ki garde li vivan. mo souhaite egalement remercier la MBC ki p fer enn gros travail pu collabore dans la celebration de sa la zournee la avec enn serie de ban emition ki etes annoncer pour aujourdhui. Pu mark sa date la enn version revisiter cimain la limier finn lancer zordi par minister avec lapport conservatoire national lamisik fransoi miteran. Parmis ban artistes ena azaria topiz, jerry rouget, the prophecy ou encore lanikita.",
+  
+  "la suite sa zournal la cest apres sa pause la. ",
+  
+  "Promouvoire diversiter linguistik ec culturelle ces lobjeectif la journee mondial la langue maternelle ki p celebre azordi dans moris creole morisien ec bhojpuri cest de language maternelle fin fer buku progres dans pays pu valorise sa language la. academi creole republik moris, luniversiter moris ec mauritius institute of education ti organise enn table ronde de virtual pu koz lor ban perspectives le languaze kreol morisien pu prochain 10 ans. Zot cotter mie ek mes p avanser dans elaboration manuelle scolaire en kreole morisien pu ban grade dice ec onze.",
+  
+  "Celebration la alange maternel sak lannee li met  en valer diversiter linguistik, natou ec en richesse. Dans moris creole morisien finn fer buku progres durand deux deriniere decenie avec so introduction dan cursus scolaire ek dans luniversiter. Pendant enn table ronde organiser dans reguit sa jeudi la representant mauritius examination syndicate finn koz lor introductions ban manuelles scholaire en grade 10 ec 11. Premier edition lexamain km cetain en 2015 pu grade 4 et puis nou in fer grade 5 en 2016 et kan ti ena premier edition PSAC en 2017 MES in inclure km dedan et lannee derniere edition nce inn deja annoncer officiellement pu ena enn national school certificate dans KM au nivo sc. President creole speaking union finn li fer part de so satisfaction concernant progres ki vin accomplir pu valorise creole.  ",
+  
+  "le creole morisien en tant ki langue scolaire en tant ki langue academic lin enna enn success story maintenant nous bizin fer de sorte ki li rentre dans beaucoup sphere li bizin vinn enn langue technique pu ki eventuellement li vin enn medium et ensuite li bizin vinn enn langue de la science. Bhojpuri li deuxieme langue maternelle buku ban morisie. Introduction la journee national bhojpuri gammat le 8 fevrier insi ke le bulletin linformation lor MBC cest autant ban initiatives kin finn permette valorise sa langue la. Bhojpuri cest enn grande richess forme partie nou patrimoine. Mo felicite le gouvernment, le premier ministe. lannee derniere le 2 novembre linn finn annoncer ke bhojpuri cest en langue tres tres imporatant de lile moris li enne langue de communication de culture, de literature lin finn introduire li comme dan bhojpuri sammachar lor television ki pas ti ena avan et mo felicite la MBC aussi parceki depuis 2013 la mbc finn introduire 24 sur 24 enn channel en bhojpuri.",
+  
+  "Point dencase crucial pour lekilibre  et bonne estime de sois, banne langue maternelle aussi azir kuma enn facter development ec la paix dans nous pay multiculturelle. ",
+  
+  "Dan cadre de fete mahashivratree 2500 gangaghal depi linde pu distribuer dans ban temples a travers lile avant le 28 fevriyer cest president mangal mahaadev misoon mungroo ki finn dir sa dans enn conference de presse zordi mardi avec samantan darma phurrit mundul dans port loui. Distribution delo sacre pu permet ban fami ki panne finn ressi al ganga talao fer ban rituelle dans bantemples zot localiter. Zot mete aussi respect lor ban protocol sanitaire.",
+  "tout en respectant protocol sanitaire  kinn met en place par gouvernment ban devo p al dan ganga talao pu accomplir ban la priyer surtout pu prend de leau sacre depi lak kuma tou bannanner mais en raison pendemie buku fami ec buku dimoune ki gagne ban co morbiditer pas pu kapav aller sa lannee la. Pu aide zot accomplir le shiv abhishek mungle mahadev foundation fin engage li pu distribuer 2500 litres ganga jal delo sacre depi gange dans ban temples. ",
+  "sa veux dir seki in amen sa delo la premier nous pu al fer so pooja dan ganga talao apre sa delo la  pu sort laba li pu vin dan mangal mahadeo kot nous pu fer avisheik. Nous invites tout ban societer zot president pu distribuer zot, zot bouteille delo, Nou pu commencer a grand bassin le 25 et nous esperer pu fini partaze tout ban delo avant le 28 pu nou kapav fer nou pooja . Nou demande au publik de coorperer, de suive le protocol, nous pa amen gros cawal, nous pas marce en groupe. Nous fer enn manier avec benediction de shiva avec benediction nous la priyer ki ban maladi, ki ban pendemic de covid disparaite apres shivaratee. Ban devo foder pas fer ban rassemblement dans ban temples mais aussi fer preuves de comprehension ec de vigilance quand zot all ganga talao. Zot pu kapav suive en direct tout ban scence la prieyer lor ban chaine mbc",
+  
+  "concernant situation sanitaire dans moris lor covid nous finn enregistrer 78 nouvo cas zordi 2 patients finn admet lhopital ent ec auken panne gagne decharge. Ena 41 admissions dans ban lhopital regional ec 12 decharges depi sa ban lhopital la lor campagne vaccination 996 835 dimoune finn fer zot premier dose vaccin, 958 768 lezot finn gagne zot 2eme dose ec 264 924 finn fer zot booster doze.",
+  " Et dans rodrigue finn enregistrer 102 nouvo cas covid dans 24 hr ena actuellement 2784 cas actifs ec 4991 dimoune considerer kuma guerri.",
+  
+  "Ban nouvelles dehors. Laustralie inn reouvert so ban frontieres zordi a tout ban tourists ki vacciner apres preski 2 ans apres ki li ti impose ban restrictions sever. Fermeture ban frontiere in coute plis ki 2 milliard euro sak mois dapres chambre de commerce ec industrie pay.",
+  
+  "laisse nous guet asterla ban nouvelles letemps dans moris, situation general. en avis di vent fort ec gros la houle en viger pu moris ziska 22hr zordi. Ek ban bandes nuageuse assossier a emnati p contigne letemp local zordi tanto pu ena ban nuages avec bannes averces ki kapav moderer par moment, loriage isoler, pu ena aussi brouiyar dans ban terrin elever. Temperature minimal pu varirer entre 20 et 26 degree demain le ciel pu reste nuageux avec ban averces par moment, temperature maximal entre 25 ek 31 degree divent pu souffler depi nor west a environ 45km/h avec ban raffales 90km/h ki pu afaiblie graduaellement asoire. La mer pu reste movais avec ban vagues 5met hauter. Ena risk rademarer lor litoral nord ec loueste, kan la marer pu monter ban sorties en mer  ec la plages sa ban lendroit la deconceiller. la mare pu haute demain a 3hr58 ec 16h 45, li pu basse zordi a 21h 55  ec demain a 10h57. Ek demain soleiy pu lever a 6hr 54 et li pu al coucher a 18hr 52.",
+  
+  "Et voila nous zournal fini ici. Merci pu ou lattention.  Bonne soiree par ban chaines mbc.",],
+//tatiana
+  ktv_22_02_2022: [
+  "Madam missier bonsoir bienvenu a la une azordi.",
+
+  "Praik ban activiters fisik prest au centre politk gouvernment pu le bienetre population, declaration premier ministe ki finn innogure en sub-hall dans st julien dautrement et enn complex sportif modern dan camp thorel, ban prozet au cout 17 million rs.",
+  
+  "Leader francais en services informatik aupres ban PME finn implante li dan moris, premier minist dir ki gouvernment fonde so politik au nivo industrielle lor secter nouvo technolozie, ",
+  
+  "Reconait ki chagos appartenier a repiblik moris finn envoy trois requettes a google dans sa sense la ",
+  
+  "Et dehors dans langleterre Boris Johnson finn presente so strategie pu enlev tout restriction sanitaires a partir le 24 fevrier.",
+  
+  "Villaze st jullien dautement et  camp thorel inn gagne nouvo infrastructure koter loisir, gouvernment finn depense plus ki 17 million Rs pu construire enn subhall insi ki enn complex sportif moderne. premier minist ki dans sa 2 lendroits la azordi tanto pu ceremonie innoguration officielle. Pravin Jugnauth finn dir ki pratik ban activiters fisik  li enn prioriter politik gouvernment pu assure bienetre population. Nous ecoute premier minist. ",
+  
+  "Dan 4 coin nous pay  nous p fer ban project tell ke complex sportifs avec gymnases, terrin football, kot bizin met li au norme, mini soccer pitich, ban health track, gymnases a lexterieur aussi. Enn paker kitsoz nous p fer. Foder aussi la population bizin motiver, ek bizin fer sa zefor pu servi sa ban infrastructures la. Alors la cause sa li important ki mo lappel a zot  tou ici, ek kan mo p fer lappel a zot tout mo p koz ec lepep pu ki zot servie sa ban faciliter la.  Et mo kapav assir zot ki seki mo dir zot be moem mo fer li. Parseki surtout dans mo position, avec responsabiliter ki mo ena li important ki nous occupe nous lekorp nous guet nou la santer ki nous kapav lerla ena enn meilleure rendement.",
+  
+  "Premier minist finn aussi annonce construction ban drain dans st julien dautement et ban regions ki trouves dans le paraze enn prozet ki li dir pu koute dans les environ 135 million roupee. Nous ecoute declaration pravin jugnauth au micro abdel bolakee. ",
+  
+  "Development p touver partou, ici dans camp thorel, nous kne ban problem ki ena, pu nous fer drain, pu nous fer lezot prozet,  ena place kot gouvernment ena la terre li vinn facile, mais buku la plus part dailleure de ban la terre, appartenier a  ban priver et nous bizin sa ban la terre la pu ki nous kapav fer sa ban drain la sinon kuma nous pu kapav construire alors mo fer enn lappel a ban proprietaire, parseki la mo koner actuellement p discute avec a peu pres proprietaire nous fer lappel a zot comprehension pu nous gagne sa ban la terre la au plus vite possible. Lerla construction pu kapav faire le plus vite pu kumsa nous pas gagne kan sitiation gagne gros la pli ki pas cause ban degats. Donc sa drain la li pu coute environ 135 million roupee. 135 million roupee pu ki nous kapav fer enn manier kan ggn gros la plie delo kapav fini drainer  pas vinn affecter zot.",
+
+  "Et a zordi gramatin finn fer inoguration societer XEFI center mauritius dans eben. Leader francais en services informatik aupres ban tipti ec moyenne entreprises li  finn ouvert enn buro dans moris et pu commencer li pu employe 150 dimoune. Premier minist finn pu locasion declarer ki nouvo technolozik li en de ban secter lor lakel gouvernment finn baze so politik pu redinamize industrie. Pravin jugnauth finn annoncer ki sa lindustrie la li p fer enn croissance  6,5 pour cent valer di jour. Chef gouvernment  finn aussi dire ki secter priver li enn partener determinant development, premier minist aussi dir ki p fer grand zefor  en term infrastructure ek cadre reglementaire pu permet ban entreprises realise zot potentiel au maximum.",
+  
+  "Cree 25 ans de cela en france le group XEFI zordi li present dan plusieur pay kuma la suisse belgique ek la reunion. Sa societer la li employe 1600 dimoune  et li offert ban services informatik a ban tipti ec moyene entreprises kuma burotik, centre donner ek development ban software.Xefi annonce creation prochaine enn academy formation ec insertion professionel dan moris sasha presental pdg sa group la dir ki ena buku opportuniter dan pay.",
+  
+  "Pu premier minist creation enn buro XEFI dans moris demontrer ki nous pay offert enn environment favorable  a investissement ec innovation. Pravin jugnauth affirmer ki dans zot strategie extension international buku multinational in delocalise enn partie zot activiter dans moris. Chef gouvernement soulignier ki secter priver li enn determinant pu development et li rapel banz zefor ki p fer pu ki ban entreprises kapav realise pleinement zot potentielle en plis 3 cables soumarins international kot moris connecter. enn 4eme cable pu rentre bientot en operation. ",
+  
+  " premier minist soulign lambition gouvernement deploye connection internet a haut debit dans tout ban institition scholaire pay. Pravin jugnaut dir li encourage lezot entreprises etranzer vinn dans moris li dir avec ban partenaires local sa pu prepare pay a ban enjeu transition numerik.",
+  
+  "Lunion eurpean so zournal officiel in publier ki moris finn sorti de so la liste noire, sa decision la li pu vinn enn realiter le 13 mars prochain sa publication la finn vinn valid reputation republic moris kuma enn platform sure ek securiser pu ban investisser cest seki minist services financier li dir li aussi dir ki sa decision la pu ena enn limpact positiv lor linvestissement et li pu renforce encore plis reputation moris en tent ki centre dexcellence pu service financier. Nou ecoute minist mahen Seeruthun au micro Yajnah mishra.",
+  
+  "Dabors nous bizin dir ki nous bien content ki sa finn rende publik maintenant enne bonne nouvel pou le pay enn bonne nouvel pou le secter. Et aussi mo penser mainternant  la sorti de la liste noire de lunion european ban transactions banquaire, financier entre leurope ec moris. Le fait que ca a eter rendu publik pu li vinn enforcable li vinn force de loi zot donne enn delay de 20 jours pu ki sa donc li prend leffect. Nous au nivo gouvernement nous ti met tout leffort ki bizin depuis le debut. Du moment ki nous finn rentre lor la liste grise du de grade F pu nous kapav fer seki es bezoin pu nu sorti le plus vite possible, dalleure finn enna buku commiter  donc le commiter principale ki presider par le premier minist lui mem. li monitor le travail et sa finn apport so fruit parseki nous in finn sorti de la liste noire  donc cest enn recompense de travail ki finn fer et de tout zefor kin finn meter de tout un chacun pu ki nous arrive a sa. Moi maintenant mo p guet lavenir du secteur cest enn secteur ki pu moi cest tres promoteur ki kapav contribuer buku encore a lindustrie pour leconomie du pays et nous pu fer tout pu ki maintenant nous consolide le secteur ek nous attir encore plis ban investissment ki passe a traver moris.",
+  
+  "Ek concernant sa publikation la dans zournal lunion europeanne Financial services commission p li dir de so koter ki sa demmarche la li demontrer ki bientot pu ena linvestissement dans lile moris ki finn blanchi.",
+  
+  "Li officiel moris finn sorti depi la liste noire lunion europeanne ces ceki finn resortir depi zournal  officiel lunion europeanne enn decision ki du a sorti moris  depi la liste grise , de groupe daction financier lannee derniere  ec so reforcement ban dispositif la lute conte blanchment dargent ek financement terrorism. ",
+  
+  "Premier condition se ki nous bizin sorti dans gray liste ATF ki nou finn aboutir lannee derniere. EU ti impormer ki moris pu tir depi la liste noire  dapres so process li ena enn date kot li affiche le nom et un mois apres si pena protestation donc li officiellement  sorti. Ca cest le cas aujourdhui.  Parmi ban pays kinn finn enlever depuis la liste noire union europeenne nou retrouve Bahamas, Botswana, ghana ek  lirak. Aterla moris pu percevoire  kuma enn pay ki fiable pu abn investisser.",
+  "So ban repercusions tres importante parceki kan ou officiellement sorti dans la liste noire  ca veu dire nous ena enn reconnaissance formelle de tout ban travail ki nous in met en place par tout ban investisseure et tout ban DFI ces seki nous appel ban development financial institution sa ban la aster zot pu reconnait moris kuma enn jerudition prope ec donc zot pu kapav recommence fer passe zot ban fonds a traver moris pu ban investissement.",
+  
+  "Dans so analyse commission fin conclure ki moris pas represente auken carance strategik dans enn communiker kinn finn emet meme jour, mauritius bankers assossiation finn acceuillire favorablement  sa nouvelle la, li rapel aussi  so engagement pu encourage respect norms international conte blanchiment dargent a moris. ",
+  
+  " Ek repiblik moris p contignier lor so lancer pu li le monde reconaite larchipelle chagos kuma enn territoire moricien depi 2020 nous pay finn envoy 3 requette a google pu larchipelle decrire insi so moter recherche sa nouvelle la p fer grand tit dans la presse international tell ki the guardian.",
+  
+  "En mais 2020 nouvo carte le monde nation unie finn decrire larchipel chagos comme etan enn terriroire repiblik moris, letat morisien finn insi enclanche ban demarches a seki appelation ban lile chagos zot egalement changer lor google maps. Moris finn envoy 3 requettes formelle a google depi 2020 as sense la selon the guardian. mais banla panne finn fernanier ziska present. S nouvel la finn reprend par ban lezot la presses  internationalle, sa terriroire la li actuellement decrire par google maps kuma enn territoire britanik doutre mere ki contester moris p envi ki sa appelation la li rectifier et ki li nomer chagos archipelagos republic of mauritius Jugdish koonjul ambassader mauritian dans nation unie p dir ki google seki p montrer incorecte. Selon the guardian ban lettes kin envoyer par repiblik moris a google demande a seki british indian ocean territory li raiyer de la carte. Dan so ban correspondances moris p appiye li entre autre lor ban jugements de ban instances international kuma la vie consultatif la cour  international la zistice ec rezolition adopter par nation uni en faver moris en 2019. moris dir li kapav entamme ban poursuites judiciere conte google ek google li li p dir ki li p examine la demande.",
+  
+  "Sa dimanche la pu ena election general dans rodrige  ban bulletins votes deja pres et zot  en phase verification asterla c ceki minister electoral finn dir dans enn declaration ki lin donner a MBC azordi tanto. Irfaan ramman dir ke sa lexercise la li terminer zot pu reste souceller ziska vendredi gramatin, commissaire electoral dire ki ban dimoune pu kapav al voter a parti 6hr gramatin em au lieu 7hr le 27 fevriyer. Nou ecout irfaan rahman au micro vidima seebhorun.",
+  
+  "Monsieu rahman kuma nous koner dimanche le 27 ena elections a rodrigue dir nou en ti per kuma p passer lexercise bulletin de vote ek ban procedure ec koter sekiriter protocol sanitaire kuma sa p passer. Effectivement cest ban points tres cruciale pour la prochaine electorale parceki kuma nous kne ban election ki ti deja fixer pu le 13 fevrier on eter reporter pu ordinairement le 27 fevrirer pur des raison ki nous tou nous kne maintenant. donc face a traplin et maintenant nous p prepare nou pour les elections ki pu ena lieu se dimanche si le 27 fevriyer de 6hr du matin a 4hr de lapres midi. li bon ki nous fer resortir li important ken electer ken changement ke enn election pu commencer 6hr du matin et non a 7hr du matin cest enn changement assez important et li bon ke ban dimounes realiser ke election pu commencer a 6hr. mo retourne a moris maintenant effectivemnet les bulletin obtenue imprimer a limprimerie du gouvernment kant a eter le cas a moris et a rodrigue kot les bulletins sont imprimer iniquement a limprimerie du gouvernment on vient de recevoire tou bulletin zordi et maintenant nous en phase de verification des bulletin pu verifier de ban kitsoz ki p affecter dans ban 6 local regions.  Cette apres midi aujourdhui, nous p terminer avec cet exercise tres important de verification des bulletins. Et les bulletins seront garder sous celler au siege de raport electoral a port louis sous escorte policiere juska jeudi matin. Donc ena enn chronology des evenements, les bulletins sous circuit du gouvernment in rentre dans bureau ici, kan ;li fini ici, fini verifier ; nous garde li dans enn la chambre forte, dans enn strong room. Et la pendant tout lexercise ena ban policier ki surveille tout loperation. Et la jeudi matin encore enn fois sous forte escorte policiere les bulletins sortiront dici sous la supervisions des security officers pu al sur le tarmac de ssr airport a plaisance. Et la li pu etre load in  dans lavion dair mauritius pour etre amener a rodrigue et arriver a rodrigue pendant le meme exercise en reverse mode kot les bulletins pu sorti de lavion pu debarker sa pu superviser par trois attacher de police pour emener a port maturin grande montagne et plaine coraille pour retire ban cellules dans sa trois postes de police la pu garde zor encore enn fois sous escorte policiere ec celler bien entendu, et la les bulletins pu reste en cellule policiere ziska dimanche matin kot pu bizin cas les celler sur les cellules retires les boites ki contien les bulletins et amen zot dans les centres de vote tres tot le matin a partir de 4hr et demi du matin dimanche pu ki nou kapav commence le scrutin a 6hr du matin.",
+  
+  "Et enn mot lor billant covid dans moris finn ena 2 ladmision dans lopital ent ec 68 dans ban lopital regional et fin ggn 162 cas pendant derniere 24hr ec plis ki 26milles dimoune finn gueri de covid 19 ziska present. ",
+  
+  "Dehors dans langleterre Boris Johnson finn confirmer ki pu enleve ban dernier restrictions sanitaires, premier ministe britanic finn propose enn plan ki appel vive avec le covid, inci a partir le 24 fevrier ban dimoune ki p tester positif pas pu obliger alle en quarantaine, porte masque pu nepli obligatoire, pareille pu ban passport vaccinal.",
+  
+  "Et nous guet nouvel letemps asterla avec ban previsions pu prochaine 24 heurs. Asoir letemp pu mi courvert en zeneral et li pu vinn et li pu vin parfois nuague principalment dans parti este de lile ensi ki dans plato central avec ban averse passagere. Durant la nuit temperature minimal pu varier  entre 20 a 22 degree lor plato central et 24 a 26 degree lor la cote. Demain temperature maximal pu varier entre 25 a 28 degree lor plato centrale ec lor hauter ec entre 30 ek 32 degree lor litoral. la mer pu movais avec houle ziska 3m50 en dehors ressif, marer pu haute demain 4hr 30 ec 18hr 16, li pu  basee 22 h34 ek midi onze. Soley pu lever demain 6hr05 ek li pu al coucher demain 18hr 41 ",
+  
+  "Et cest ici ki nous zournal terminer, madam missier merci ou finn suive li. Bonne soiree",],
+
+
 };

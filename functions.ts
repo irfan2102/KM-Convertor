@@ -15,7 +15,7 @@ export function getCorpusDetails(fileName: any) {
   let words = [];
   corpus[fileName].forEach((line: any) => {
     let y = line.split(' ');
-    y.forEach((i:any) => {
+    y.forEach((i: any) => {
       i !== '' && words.push(i);
     });
   });
@@ -96,7 +96,7 @@ export function generateSentencesinKMfromCorpus(
       : convertedText.push(txt);
   });
 
-  let count = 0;
+  let count = 904;
   for (let i = 0; i <= convertedText.length; i += sentenceLength) {
     count++;
     let temp = convertedText.slice(i, sentenceLength + i);

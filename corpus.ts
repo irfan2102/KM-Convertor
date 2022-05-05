@@ -932,7 +932,7 @@ export const corpus = {
     ' par nou fer sa 1er augmentation de sa prix lessence le semaine de decembre le prix de barille ti p vend a 77 dollar comparer a 29 decembre ziska zordi ',
     'dan phase de 2 mois pli petrol in preker doubler dan ban lezot pays prix lessence boukou pli cher ki  a moris c parceque a moris kuma ou konner ',
     'kan ena 1 augmentation prix en price mechanism ena 1 limit  lor komier nou kapav augmenter li augmente de seulement 10 pourcent ',
-    'ena ban consomateur p dire 9 roupie tax ;i ti kapav tirer dimoune bizin compren lor nou dernier communiker lor sak litre lessence ki p vender dan moris nou ',
+    'ena ban consomateur p dire 9 roupie tax li ti kapav tirer dimoune bizin compren lor nou dernier communiker lor sak litre lessence ki p vender dan moris nou ',
     'p fer 6 roupie 50 la perte li nombre de subsite ki nou p donne ban consomateur dan moris 6 roupie 50 6 roupie 50 par litre la stc ',
     'p suive la situation mondial de pres azordi la mo pa kapav dire ou la pou ena 1 lot augmentation parski sa ban sok ki p ena lor prix petrol ',
     'lor prix mondial la zot ban augmentation drastique ki p ena la zot dire ban circonstance ki p changer de jour en jour nou ena 1 ',

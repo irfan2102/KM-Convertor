@@ -20,7 +20,7 @@ let fileName = 'ktv_07_03_2022';
 // console.log(getMissingWordsInDict(fileName));
 
 /*4. Generate sentences from corpus--->precise the length you want the sentence to be*/
-// console.log(generateSentencesinKMfromCorpus(fileName, 16));
+console.log(generateSentencesinKMfromCorpus(fileName, 16));
 
 /*5. Number of corpuses available*/
 // console.log(noOfCorpes())

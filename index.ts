@@ -6,7 +6,7 @@ import {
   noOfCorpes,
 } from './functions';
 
-let fileName = 'ktv_10_03_2022';
+let fileName = 'ktv_07_03_2022';
 
 /****Test */
 
@@ -17,7 +17,7 @@ let fileName = 'ktv_10_03_2022';
 // console.log(convertCorpus(fileName));
 
 /*3. WORDS NOT PRESENT IN DICT FROM THIS CORPUS*/
-console.log(getMissingWordsInDict(fileName));
+// console.log(getMissingWordsInDict(fileName));
 
 /*4. Generate sentences from corpus--->precise the length you want the sentence to be*/
 // console.log(generateSentencesinKMfromCorpus(fileName, 16));

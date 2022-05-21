@@ -96,7 +96,7 @@ export function generateSentencesinKMfromCorpus(
       : convertedText.push(txt);
   });
 
-  let count = 1072;
+  let count = 1237;
   for (let i = 0; i <= convertedText.length; i += sentenceLength) {
     count++;
     let temp = convertedText.slice(i, sentenceLength + i);

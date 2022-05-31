@@ -100,6 +100,6 @@ export function generateSentencesinKMfromCorpus(
   for (let i = 0; i <= convertedText.length; i += sentenceLength) {
     count++;
     let temp = convertedText.slice(i, sentenceLength + i);
-    console.log(`<s> ${temp.join(' ')} <s> (Female3/3_${count})`);
+    console.log(`<s> ${temp.join(' ')} <s> (Male5/5_${count})`);
   }
 }

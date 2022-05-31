@@ -1133,7 +1133,7 @@ export const corpus = {
     "bonsoir madame missier bienvenue dan sa zournal kreol morisien la sommaire de sa edition la dan poudre-d'or a locassion inauguration ",
     'nouvo poste national coast guard premier minis fine koz lor lordre ek la paix ki reste so prioriter secteur priver li au centre de ban ',
     'discussion dan 1 rencontre en premier minis ek secretaire general lindian rhyme association il aura salman al-farisi ki ti zoine ',
-    'azormi rayaume uni fine enleve drapo morisien lor lili peros banos ban refugiers chagos dire ki c  1 acte inacceptable dehors infermier',
+    'azormi rayaume uni fine enleve drapo morisien lor lil peros banos ban refugiers chagos dire ki c  1 acte inacceptable dehors infermier',
     'fine approve 1 aide durgence montant 1 virgule 4 milliards dollar en faveur lukraine merci pou ou fideliter lorde et la paix li demure 1 ',
     "prioriter gouvernment ki envi enkor plis la securiter lor la terre kuma damn lamer propos premier minis  zordi apres-midi a poudre-d'or pendant ",
     'inauguration 1 nouvo poste national coast guard pravin jugnaut declarer ki nou lespace maritime essentielle lin saluer national coast guard ',
